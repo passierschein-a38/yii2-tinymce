@@ -1,5 +1,5 @@
 {
-  "name": "zxbodya/yii2-tinymce",
+  "name": "passierschein-a38/yii2-tinymce",
   "description": "Yii2 extension to use TinyMce with Compressor and FileManager",
   "type": "yii2-extension",
   "keywords": [
@@ -11,8 +11,7 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Bogdan Savluk",
-      "email": "savluk.bogdan@gmail.com"
+      "name": "passierschein-a38",
     }
   ],
   "require": {
